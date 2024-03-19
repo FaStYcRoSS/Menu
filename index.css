@@ -1,0 +1,16 @@
+.menu {
+    background-color: #151515;
+    font-size: 16pt;
+    width: 400px;
+    height: 300px;
+}
+
+.Button {
+    background: #292929;
+    box-shadow: none;
+    border-radius: 0px;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    color:#FFFFFF;
+}
